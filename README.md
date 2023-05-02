@@ -1,8 +1,10 @@
 ## open API Worker Document
-### install:
+
+### First Clone the project:
 ```python
-pip install -r requirements.txt
+git clone https://github.com/kaiqueBellmont/openAPIWorker.git
 ```
+### install:
 ### Docker:
 #### Build and get up the container:
 ```python
